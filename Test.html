@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>:: Test ::</title>   
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+        <a class="navbar-brand" href="#">TRIAL</a>
+        </div>
+        <ul class="nav navbar-nav">
+        <li class="active"><a href="https://webmail.in.capgemini.com/owa/" target="_blank">Webmail</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="container"> 
+<div ng-app="myApp" ng-controller="myCtrl">
+<div class="row">
+<div class="col-sm-4"></div>
+<div class="col-sm-2">Please enter your Name:</div>
+<div class="col-sm-5"><input type="text" ng-model="name" data-placement="right" data-toggle="tooltip" title="Change it to your name"></div>
+</div>
+<div class="row">
+<div class="col-sm-5"></div>
+<div class="col-sm-7"><h1>Bonjour <span ng-bind="name"></span></h1></div>
+</div>
+</div>
+</div>
+
+<script>
+    var app = angular.module('myApp', []);
+    app.controller('myCtrl', function($scope) {
+        $scope.name= "Guest";
+    });
+</script>    
+
+<script>
+    $(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();   
+    });
+    </script>
+
+</body>
+</html>
