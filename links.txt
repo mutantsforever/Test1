@@ -1,0 +1,11 @@
+https://web.archive.org/web/20110918083730/http://www.silassewell.com:80/blog/tag/ssl/ 
+
+https://bintray.com/vszakats/generic/openssl/1.1.0g 
+
+https://stackoverflow.com/questions/7140074/restfully-design-login-or-register-resources
+
+http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/
+
+https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
+
+https://v0.material-ui.com/#/components/raised-button
