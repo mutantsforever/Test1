@@ -9,3 +9,6 @@ http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-
 https://medium.com/technoetics/create-basic-login-forms-using-create-react-app-module-in-reactjs-511b9790dede
 
 https://v0.material-ui.com/#/components/raised-button
+
+https://github.com/Createdd/Writing/blob/master/2017/articles/AuthenticationIntro.md
+
