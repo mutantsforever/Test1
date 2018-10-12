@@ -21,5 +21,9 @@ https://ss64.com/vb/sendkeys.html
 https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/windows-scripting/8c6yea83(v=vs.84)
 
 
+https://www.html5canvastutorials.com/advanced/html5-canvas-mouse-coordinates/ 
+https://stackoverflow.com/questions/3234256/find-mouse-position-relative-to-element 
+https://www.adminsehow.com/2012/03/realtime-mouse-position-monitor-tool/ 
+
 
 https://dzone.com/articles/setting-ssl-tomcat-5-minutes
