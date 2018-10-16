@@ -27,3 +27,12 @@ https://www.adminsehow.com/2012/03/realtime-mouse-position-monitor-tool/
 
 https://www.html5canvastutorials.com/advanced/html5-canvas-mouse-coordinates/
 https://dzone.com/articles/setting-ssl-tomcat-5-minutes
+
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window/open#Position_and_size_features
+
+https://stackoverflow.com/questions/726761/javascript-open-in-a-new-window-not-tab
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window/open
