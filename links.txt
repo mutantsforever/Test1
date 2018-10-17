@@ -36,3 +36,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/open#Position_and_size_f
 https://stackoverflow.com/questions/726761/javascript-open-in-a-new-window-not-tab
 
 https://developer.mozilla.org/en-US/docs/Web/API/Window/open
+
+https://www.certification-questions.com/microsoft-exam/70-480-dumps.html
+
+https://www.microsoft.com/en-in/learning/exam-70-480.aspx
